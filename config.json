@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "useruync",
+        "uuid": 13274562,
+        "checksum": "wjwylr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
